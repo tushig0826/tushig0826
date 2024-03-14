@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tushig Bat-Erdene 
 - 🌱 I’m computer engineering student at Budapest University of Technology and Economics.
 - 📚 I'm specializing in "Infocommunication".
-- 👀 I’m interested in software development, quality of experience and services, and IT automation.
+- 👀 I’m interested in software development, quality of experience and services, and Artificial Intelligence.
 - 📰 My first ever scientific publication -> https://www.infocommunications.hu/en/2022_2_8
 
 
